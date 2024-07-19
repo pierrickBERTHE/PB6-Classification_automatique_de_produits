@@ -29,7 +29,7 @@ Source : Non précisé<br>
 
 - **berthe_pierrick_3_notebook_classification_122023.ipynb** : Notebook de classification des articles à partir des images des articles en Computer Vision (Deep learning : MLP, CNN, VGG16 avec data augmentation)
 
-- **berthe_pierrick_4_script_python_122023.py** : Script Python pour extraire les 10 premiers produits à base de "champagne" issus de l'API
+- **berthe_pierrick_4_script_python_122023.ipynb** : Notebook pour extraire les 10 premiers produits à base de "champagne" issus de l'API
 
 - **Berthe_Pierrick_5_export_122023.csv** : export des 10 premiers produits à base de "champagne" issus de l'API
 
